@@ -1,6 +1,6 @@
 # Investigating the Impact of Different Agent Exploration Strategies on Performance in the Ms. Pac-Man Game Environment
 
-This project explores the performance of three different agent exploration strategies in the Ms. Pac-Man game environment: genetic algorithms, reactive agents, and A* search. The pacman enviroment simulator is from https://github.com/jspacco/pac3man - this is a Python 3 version of a simulator that was developed to teach AI at the University of California, Berkeley a few years ago. If you want to use this for your project, there are loads of details about it at http://ai.berkeley.edu/project_overview.html  
+This project explores the performance of three different agent exploration strategies in the Ms. Pac-Man game environment: genetic algorithms, reactive agents, and A* search. The pacman enviroment simulator is from https://github.com/jspacco/pac3man - this is a Python 3 version of a simulator that was developed to teach AI at the University of California, Berkeley a few years ago. There are loads of details about it at http://ai.berkeley.edu/project_overview.html  
 
 ## Project Overview
 
