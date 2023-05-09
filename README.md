@@ -24,4 +24,11 @@ I evaluated the performance of each agent using average and best scores across m
 
 ## How to Run
 
-To run the project, navigate to the `search/` directory and execute the runGames.py script, for different agent you wish to test, you may need to change the agent name at the start of the file and uncomment/comment some part of the code. 
+To run the project, navigate to the `search/` directory and execute the runGames.py script, for different agent you wish to test, you may need to change the agent name at the start of the file and uncomment/comment some part of the code. Remember: NewAgent1 class in newAgents.py represents genetic algorithm agent.
+
+
+## Author
+
+Yiming Yuan
+
+Coursework for COMP3004 Designing Intelligent Agents
